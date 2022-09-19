@@ -51,6 +51,23 @@
           "alt": "fechaduras mecanicas"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Promoção"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
