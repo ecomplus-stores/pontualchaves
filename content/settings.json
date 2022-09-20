@@ -1,5 +1,6 @@
 {
-  "domain": "pontualchaves.netlify.app",
+  "domain": "pontualchaves.com.br",
+  "repository": "ecomplus-stores/pontualchaves",
   "currency_symbol": "R$",
   "primary_color": "#086ae1",
   "theme": {
