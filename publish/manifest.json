@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3ca1d16a6277b2236920af969805788d.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.054d57c8a21bc553633ed4426b3dbfc3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5bfbb9e5ca58b58b9f84ce2b89d71dc0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b2ba3d6ef7e244bef683136d34a42013.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.94c25937de9500201911d97c76965530.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Pontual Chaves",
+  "short_name": "Pontual Chaves",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja especializada em fechaduras e equipamentos de segurança.",
+  "background_color": "#ffffff",
+  "theme_color": "#086ae1"
+}
